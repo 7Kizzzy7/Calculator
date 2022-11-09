@@ -1,3 +1,3 @@
 # Calculator
 My Calculator
-it's a very simple calculator
+is a very simple calculator
